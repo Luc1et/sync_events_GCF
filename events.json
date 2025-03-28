@@ -1,0 +1,62 @@
+[
+    {
+        "date": "2025-04-15",
+        "place": "Svitavy",
+        "name": "Oslava jara",
+        "type": "FIRESHOW"
+    },
+    {
+        "date": "2025-05-10",
+        "place": "Uherský Brod",
+        "name": "Festival ohně a meče",
+        "type": "FIRESHOW"
+    },
+    {
+        "date": "2025-06-05",
+        "place": "Břevnov",
+        "name": "Letní slavnosti",
+        "type": "FIRESHOW"
+    },
+    {
+        "date": "2025-06-20",
+        "place": "Blansko",
+        "name": "Noc ohňů",
+        "type": "FIRESHOW"
+    },
+    {
+        "date": "2025-07-01",
+        "place": "Zlámanec",
+        "name": "Ohnivá show",
+        "type": "FIRESHOW"
+    },
+    {
+        "date": "2025-08-15",
+        "place": "Buchlovice",
+        "name": "Rytířské slavnosti",
+        "type": "FIRESHOW"
+    },
+    {
+        "date": "2025-09-10",
+        "place": "Ostrava",
+        "name": "Oslava města",
+        "type": "FIRESHOW Plus"
+    },
+    {
+        "date": "2025-10-05",
+        "place": "Hoštice",
+        "name": "Podzimní jarmark",
+        "type": "FIRESHOW Plus"
+    },
+    {
+        "date": "2025-11-25",
+        "place": "Světlá Hora",
+        "name": "Slavnost světel",
+        "type": "LIGHTSHOW Plus"
+    },
+    {
+        "date": "2025-12-20",
+        "place": "Kulturní dům J",
+        "name": "Vánoční večírek",
+        "type": "LIGHTSHOW"
+    }
+]
